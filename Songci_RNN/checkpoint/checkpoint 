@@ -1,0 +1,8 @@
+model_checkpoint_path: "i6180.ckpt"
+all_model_checkpoint_paths: "i1000.ckpt"
+all_model_checkpoint_paths: "i2000.ckpt"
+all_model_checkpoint_paths: "i3000.ckpt"
+all_model_checkpoint_paths: "i4000.ckpt"
+all_model_checkpoint_paths: "i5000.ckpt"
+all_model_checkpoint_paths: "i6000.ckpt"
+all_model_checkpoint_paths: "i6180.ckpt"
